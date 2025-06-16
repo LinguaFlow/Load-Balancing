@@ -11,8 +11,8 @@ ingress:
   # hosts:
   #   - grafana.localtest.com
 
-adminUser: 
-adminPassword: 
+adminUser: admin-user
+adminPassword: admin-user
 
 resources: {}
 #  limits:
